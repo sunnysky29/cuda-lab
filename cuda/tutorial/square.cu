@@ -48,6 +48,7 @@ int main(){
   cudaMemcpy(d_in, h_in, ARRAY_BYTES, cudaMemcpyHostToDevice);
 
   // launch the kernel
+  // <<< block,  >>>
   square<<<1,ARRAY_SIZE>>>(d_out,d_in);
 
   // copy back the result array to the CPU
