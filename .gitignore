@@ -135,5 +135,5 @@ cuda/tutorial/tmp/*
 train/llm/deepSpeedExamples/*
 Untitled.ipynb
 llama_twosum
-cuda/test/
+test/
 
