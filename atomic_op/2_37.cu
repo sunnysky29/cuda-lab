@@ -1,3 +1,9 @@
+/*
+
+关于原子操作
+
+*/
+
 #include <stdio.h>
 #include "gputimer.h"
 
