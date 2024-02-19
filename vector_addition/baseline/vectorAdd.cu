@@ -1,5 +1,6 @@
 // This program computes the sum of two vectors of length N
 // By: Nick from CoffeeBeforeArch
+// https://github.com/CoffeeBeforeArch/cuda_programming
 
 #include <algorithm>
 #include <cassert>
